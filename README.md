@@ -19,18 +19,26 @@ Web Development: HTML, CSS, JavaScript, Flask, JDBC, Servlets, MySQL
 
 Tools & Platforms: Git, GitHub, Streamlit, SQLite, VS Code
 
-📌 Featured Projects
-🤖 GEN-AI Based Loan Products Recommendation System
+## 📌 Featured Projects
 
+### 🤖 GEN-AI Based Loan Products Recommendation System
 Built an AI-powered banking solution using Python, Flask, and SQLite that collects customer preferences through a conversational interface and recommends suitable loan products.
 
-🎬 Movie Recommender System
+🔗 Repository: [View Project](https://github.com/Swara2454/GEN--AI-based-Loan-Recommendation-System)
 
+---
+
+### 🎬 Movie Recommender System
 Developed a content-based movie recommendation system using Machine Learning and cosine similarity. Integrated the TMDB API and built an interactive user interface using Streamlit.
 
-📝 Optical Character Recognition (OCR) Model
+🔗 Repository: [View Project](https://github.com/Swara2454/Movie-Recommender-System)
 
+---
+
+### 📝 Optical Character Recognition (OCR) Model
 Developed an OCR system during my internship at Tata Motors using Python and EasyOCR to extract text from scanned documents and images.
+
+🔗 Repository: [View Project](https://github.com/Swara2454/OCR-Project)
 
 💼 Internship Experience
 
