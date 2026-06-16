@@ -4,7 +4,7 @@ Hi there, I'm Swarangi Gurav 👋
 
 I am passionate about building intelligent solutions using Data Science, Machine Learning, Deep Learning, and Generative AI. Along with my AI expertise, I have hands-on experience in full-stack development and enjoy creating end-to-end applications that solve real-world problems.
 
-🚀 About Me
+### 🚀 About Me
 🔭 Currently exploring Machine Learning, Deep Learning, NLP, and Generative AI
 💻 Experienced in building data-driven applications and recommendation systems
 🌱 Continuously learning and improving my skills in AI and software development
@@ -40,15 +40,16 @@ Developed an OCR system during my internship at Tata Motors using Python and Eas
 
 🔗 Repository: [View Project](https://github.com/Swara2454/OCR-Project-)
 
-💼 Internship Experience
+### 💼 Internship Experience
 
 Project Intern | Tata Motors Passenger Vehicles Ltd.
 
 Developed an OCR model for automotive documents
 Performed data preprocessing and model optimization
 Improved text extraction accuracy and real-time usability
+
 📈 GitHub Stats
-📫 Connect With Me
+### 📫 Connect With Me
 - GitHub: [Swara2454](https://github.com/Swara2454)
 - LinkedIn: [Swarangi Gurav](https://www.linkedin.com/in/swarangi-gurav-89778b23b/)
 - Email: [swarangigurav1@gmail.com](mailto:swarangigurav1@gmail.com)
