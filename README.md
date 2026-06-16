@@ -38,7 +38,7 @@ Developed a content-based movie recommendation system using Machine Learning and
 ### 📝 Optical Character Recognition (OCR) Model
 Developed an OCR system during my internship at Tata Motors using Python and EasyOCR to extract text from scanned documents and images.
 
-🔗 Repository: [View Project](https://github.com/Swara2454/OCR-Project)
+🔗 Repository: [View Project](https://github.com/Swara2454/OCR-Project-)
 
 💼 Internship Experience
 
